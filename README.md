@@ -1,7 +1,7 @@
 # Deploy-and-Configure-an-Amazon-LightSail-MySQL-Database
 
 
-![Logo](https://github.com/Jatinkc/)
+![Logo](https://github.com/Jatinkc/Deploy-and-Configure-an-Amazon-LightSail-MySQL-Database/blob/main/AWS.png)
 
 Hey folks,
 
